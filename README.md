@@ -35,7 +35,7 @@ This project analyzes a dataset of spectral data gathered by a simulated Mars Ro
 * **Relevance:** Demonstrates robust feature engineering and noise reduction for classification tasks in highly dimensional data.
 
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * **Programming:** Python (Primary)
 * **Libraries:** NumPy, Pandas, Scipy (for statistical distributions and solving differential equations), Matplotlib (for visualization), Scikit-learn (for classification baseline).
